@@ -1,2 +1,4 @@
-## npm install, npm run dev
-# use node 21
+
+## use node 21
+# 1. npm install
+# 2. npm run dev
